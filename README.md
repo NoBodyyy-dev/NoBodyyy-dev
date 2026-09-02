@@ -1,64 +1,130 @@
-### <div align="center" color="`#09696DA`">Hello, I`m Dmitry. I am an experienced full-stack web developer with a deep understanding of both frontend and backend technologies. My stack includes modern tools and programming languages, enabling me to create scalable and high-performance web applications.</div>
+<div align="center">
 
-##
-- I’m currently working on [LAMAGYM](https://github.com/NobodYYY-dev/LAMAGYM), [FYL (private repo)](), [OnlineSchool (private repo)]() 
-- I’m currently have 3 projects in developing
-- I`m Lead in my projects
-- Studying and working more than 2 years
+# Dmitrii Bogdanov
 
-<br/>  
+**Backend / full-stack engineer**
 
-
-## My Skills
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Version control
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-</div>
-
-</td></tr></table>
+Go · TypeScript · PostgreSQL
 
 <br>
 
-# if u wanna write me, find me in Telegram - [MartiNiHaha](https://t.me/MartiNiHaha)
+[![Telegram](https://img.shields.io/badge/Telegram-1a1a1a?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/NobodYYY_devvv)
+[![platon.school](https://img.shields.io/badge/platon.school-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=4285F4)](https://platon.school)
+
+</div>
+
+<br>
+
+I build backends end to end: data model, API, migrations, tests, deployment.
+Two years of commercial work, currently on a SaaS platform for private tutors.
+
+<br>
+
+<div align="center">
+
+### Stack
+
+![Go](https://img.shields.io/badge/Go-1a1a1a?style=flat-square&logo=go&logoColor=00ADD8)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+![Fiber](https://img.shields.io/badge/Fiber-1a1a1a?style=flat-square&logo=go&logoColor=00ADD8)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=ffffff)
+![gRPC](https://img.shields.io/badge/gRPC-1a1a1a?style=flat-square&logo=grpc&logoColor=2DA6B0)
+![WebSocket](https://img.shields.io/badge/WebSocket-1a1a1a?style=flat-square&logo=socketdotio&logoColor=ffffff)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=FF4438)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=47A248)
+![MinIO](https://img.shields.io/badge/S3%20%2F%20MinIO-1a1a1a?style=flat-square&logo=minio&logoColor=C72E49)
+
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-1a1a1a?style=flat-square&logo=redux&logoColor=764ABC)
+
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED)
+![nginx](https://img.shields.io/badge/nginx-1a1a1a?style=flat-square&logo=nginx&logoColor=009639)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1a1a1a?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=FCC624)
+
+</div>
+
+<br>
+
+---
+
+## Currently building
+
+### PLATON &nbsp;·&nbsp; SaaS platform for private tutors and online schools
+
+<sub>Go · Fiber · PostgreSQL · Redis · WebSocket · LiveKit · Next.js &nbsp;—&nbsp; private repository</sub>
+
+<table>
+<tr>
+<td align="center"><b>37</b><br><sub>domain packages</sub></td>
+<td align="center"><b>~395</b><br><sub>REST endpoints</sub></td>
+<td align="center"><b>107</b><br><sub>DB tables</sub></td>
+<td align="center"><b>58</b><br><sub>migrations</sub></td>
+<td align="center"><b>243</b><br><sub>test files</sub></td>
+<td align="center"><b>84</b><br><sub>recorded ADRs</sub></td>
+</tr>
+</table>
+
+- Go backend monolith, layered `handlers / service / repository`, **no ORM** — all SQL by hand over pgxpool
+- PostgreSQL schema of 107 tables via goose migrations, every one with a reversible rollback and backfill
+- **Billing:** subscriptions, four course payment models, refunds, double-entry wallet, payouts, fiscal receipts
+- **Collaborative whiteboard** built from scratch on the Canvas API with a custom WebSocket protocol
+- **Video lessons** on self-hosted LiveKit + coturn, with recording via egress
+- Next.js frontend — 78 cabinet screens, 37 admin screens with a role/permission matrix and audit log
+- 7 CI pipelines: image builds, deployment, repository mirroring via `git subtree split`
+
+<br>
+
+### Shispar &nbsp;·&nbsp; B2C/B2B e-commerce platform
+
+<sub>Node.js · Express · MongoDB · React · Docker &nbsp;—&nbsp; sole developer, private repository</sub>
+
+- **YooKassa payments:** cards, instant transfers, cash on delivery, invoice payment for companies
+- Order lifecycle automation: stock reservation, statuses, auto-cancellation, tracking numbers
+- **Telegram and MAX bots** as separate services — invoices and order status without visiting the site
+- Permission model scoped to sections and actions, replacing a single shared admin account
+- CI/CD from scratch: Docker → GHCR → deploy over SSH on push to `main`
+
+<br>
+
+---
+
+## A problem I enjoyed solving
+
+> Per-plan student limits and storage quotas were both breachable by parallel requests.
+>
+> The fix was PostgreSQL advisory locks, with one rule that is easy to get wrong: **the check has
+> to be a separate statement issued after the lock.** Combine locking and checking into one query
+> and you read the snapshot taken before you started waiting — which is exactly the state the lock
+> existed to protect you from.
+>
+> Locks are also taken in **ascending key order**, because one person can be a tutor on their own
+> course and a student on someone else's — so "tutor first, then students" is not an order at all.
+
+<br>
+
+---
+
+<details>
+<summary><b>Education</b></summary>
+
+<br>
+
+**NUST MISIS**, Moscow — BSc, Computer Science and Engineering · expected 2028
+
+**Higher School of Programming** — vocational diploma, Software Development · 2024
+
+</details>
+
+<br>
+
+<div align="center">
+<sub>Open to remote, hybrid and relocation</sub>
+</div>
