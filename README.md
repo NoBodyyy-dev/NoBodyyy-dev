@@ -126,5 +126,5 @@ Two years of commercial work, currently on a SaaS platform for private tutors.
 <br>
 
 <div align="center">
-<sub>Open to remote, hybrid and relocation</sub>
+<sub>Open to remote work only</sub>
 </div>
